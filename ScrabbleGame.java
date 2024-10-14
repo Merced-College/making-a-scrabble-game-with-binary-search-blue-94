@@ -1,6 +1,11 @@
 // Jeremiah Tenn, Tom Nguyen
 // 10/11/2024
 
+// Zoom recordings. There are 3:
+// https://drive.google.com/file/d/1gi_WmywZGLU4SmvLNx6hn3Xac8ijnBle/view?usp=sharing
+// https://drive.google.com/file/d/1AWz-fX6C3ZVLW81op7BYXZxwnhHTMsM8/view?usp=sharing
+// https://drive.google.com/file/d/1ekw9mT05X6bTgX0o8SZYH3e8GTs_R-1T/view?usp=sharing
+
 // Our improvement: Allow the user to exchange one of their letters.
 
 import java.util.Scanner;
